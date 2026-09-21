@@ -21,7 +21,7 @@ Every tweak as a toggle. Apply or revert in one click.
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/cr1mix/reimaginedOS_toolbox/blob/main/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
+  <img src="https://reimaginedos.pages.dev/assets/toolbox.jpg?raw=true" width="700" alt="ReimaginedOS ToolBox">
 </p>
 
 </div>
