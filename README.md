@@ -60,15 +60,6 @@ The ToolBox is the companion app of [ReimaginedOS](https://github.com/cr1mix/Rei
 
 ---
 
-## Beta
-
-ReimaginedOS **0.1V is in beta testing**. Test the ToolBox, report what breaks — testers get a **custom role** on Discord.
-
-<p align="center">
-  <a href="https://discord.gg/NjkgT7vXBb">
-    <img src="https://img.shields.io/badge/BETA_TEST_NOW-GET_A_CUSTOM_ROLE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Beta test now">
-  </a>
-</p>
 
 ---
 
